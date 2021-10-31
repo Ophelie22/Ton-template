@@ -1,4 +1,3 @@
-
 //on selectionne notre bouton avec l'id
 let button = document.querySelector('#mode');
 //on selectionne notre span ici pas d'id ou de class
